@@ -1,0 +1,17 @@
+{
+    "id": "assets",
+    "name": "资源",
+    "version": "1.0",
+    "iframe": [
+        "index"
+    ],
+    "thumb": "/static/plugins/assets/thumb.jpg",
+    "description": "可以读取系统资源目录中的文件信息，并可以进行删除和分组操作。值得注意的是修改资源时确保该资源没有被引用，不然调取会出错。删除为标记删除，方便撤回。保证了误操作的可能性。",
+    "authors": [
+        {
+            "name": "江边望海",
+            "email": "jiangbianwanghai@163.com",
+            "homepage": "http://www.jiangbianwanghai.com"
+        }
+    ]
+}
